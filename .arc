@@ -1,12 +1,11 @@
-# Warning: do not edit
-# --------------------
-# This is a generated file and will be overwritten
-
 @app
-begin-app
+doge-hk1
+
+@static
 
 @http
 get /
+get /human
 
 @tables
 data
